@@ -16,4 +16,5 @@ int main()
 		n=n*3+1;
 	}
 	cout<<1;
+	return 0;
 }
